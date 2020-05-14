@@ -1,822 +1,822 @@
 [
- {
-   "name": "activity-baseball.svg",
-   "keywords": "discovery"
- },
- {
-   "name": "activity-basketball.svg",
-   "keywords": "discovery"
- },
- {
-   "name": "activity-football.svg",
-   "keywords": "discovery"
- },
- {
-   "name": "activity-learn.svg",
-   "keywords": "discovery"
- },
- {
-   "name": "activity-music.svg",
-   "keywords": "discovery"
- },
- {
-   "name": "activity-science.svg",
-   "keywords": "discovery"
- },
- {
-   "name": "activity-soccer.svg",
-   "keywords": "discovery"
- },
- {
-   "name": "activity-tennis.svg",
-   "keywords": "discovery"
- },
- {
-   "name": "arrow-caret.svg",
-   "keywords": "expand collapse dropdown"
- },
- {
-   "name": "arrow-change.svg",
-   "keywords": "sync"
- },
- {
-   "name": "arrow-rotate.svg",
-   "keywords": "turn"
- },
- {
-   "name": "arrow-swap.svg",
-   "keywords": "switch"
- },
- {
-   "name": "arrow.svg",
-   "keywords": "go"
- },
- {
-   "name": "content-add.svg",
-   "keywords": "plus include"
- },
- {
-   "name": "content-attach.svg",
-   "keywords": "record"
- },
- {
-   "name": "content-attached.svg",
-   "keywords": "record"
- },
- {
-   "name": "content-check.svg",
-   "keywords": "done complete finish"
- },
- {
-   "name": "content-copy.svg",
-   "keywords": "duplicate"
- },
- {
-   "name": "content-delete.svg",
-   "keywords": "remove trash"
- },
- {
-   "name": "content-detach.svg",
-   "keywords": "record"
- },
- {
-   "name": "content-download.svg",
-   "keywords": ""
- },
- {
-   "name": "content-edit.svg",
-   "keywords": "change"
- },
- {
-   "name": "content-flag.svg",
-   "keywords": "report"
- },
- {
-   "name": "content-history.svg",
-   "keywords": "revert"
- },
- {
-   "name": "content-link.svg",
-   "keywords": "hyperlink"
- },
- {
-   "name": "content-lock.svg",
-   "keywords": ""
- },
- {
-   "name": "content-print.svg",
-   "keywords": ""
- },
- {
-   "name": "content-remove.svg",
-   "keywords": "minus exclude"
- },
- {
-   "name": "content-tag.svg",
-   "keywords": "topic"
- },
- {
-   "name": "content-undo.svg",
-   "keywords": ""
- },
- {
-   "name": "content-unlink.svg",
-   "keywords": ""
- },
- {
-   "name": "content-upload.svg",
-   "keywords": ""
- },
- {
-   "name": "control-brightness-less.svg",
-   "keywords": ""
- },
- {
-   "name": "control-brightness-more.svg",
-   "keywords": ""
- },
- {
-   "name": "control-contrast-less.svg",
-   "keywords": ""
- },
- {
-   "name": "control-contrast-more.svg",
-   "keywords": ""
- },
- {
-   "name": "control-crop.svg",
-   "keywords": ""
- },
- {
-   "name": "control-expand.svg",
-   "keywords": ""
- },
- {
-   "name": "control-exposure.svg",
-   "keywords": ""
- },
- {
-   "name": "control-fullscreen-exit.svg",
-   "keywords": ""
- },
- {
-   "name": "control-fullscreen.svg",
-   "keywords": ""
- },
- {
-   "name": "control-grid.svg",
-   "keywords": ""
- },
- {
-   "name": "control-hide.svg",
-   "keywords": "eye"
- },
- {
-   "name": "control-highlight.svg",
-   "keywords": "mark"
- },
- {
-   "name": "control-invert.svg",
-   "keywords": ""
- },
- {
-   "name": "control-list.svg",
-   "keywords": ""
- },
- {
-   "name": "control-settings-adjust.svg",
-   "keywords": ""
- },
- {
-   "name": "control-split.svg",
-   "keywords": ""
- },
- {
-   "name": "control-target.svg",
-   "keywords": ""
- },
- {
-   "name": "control-view.svg",
-   "keywords": "eye"
- },
- {
-   "name": "discovery-heritage.svg",
-   "keywords": ""
- },
- {
-   "name": "discovery-name-meaning.svg",
-   "keywords": ""
- },
- {
-   "name": "discovery-name-popularity.svg",
-   "keywords": ""
- },
- {
-   "name": "discovery-population.svg",
-   "keywords": ""
- },
- {
-   "name": "document-basic.svg",
-   "keywords": "regular"
- },
- {
-   "name": "document-blank.svg",
-   "keywords": ""
- },
- {
-   "name": "document-book-open.svg",
-   "keywords": ""
- },
- {
-   "name": "document-book.svg",
-   "keywords": ""
- },
- {
-   "name": "document-box.svg",
-   "keywords": "source"
- },
- {
-   "name": "document-camera.svg",
-   "keywords": ""
- },
- {
-   "name": "document-certificate.svg",
-   "keywords": ""
- },
- {
-   "name": "document-check.svg",
-   "keywords": "done complete"
- },
- {
-   "name": "document-folder-love.svg",
-   "keywords": ""
- },
- {
-   "name": "document-folder-open.svg",
-   "keywords": "active album"
- },
- {
-   "name": "document-folder.svg",
-   "keywords": "album"
- },
- {
-   "name": "document-image.svg",
-   "keywords": "png jpeg jpg tiff"
- },
- {
-   "name": "document-list.svg",
-   "keywords": ""
- },
- {
-   "name": "document-pdf.svg",
-   "keywords": ""
- },
- {
-   "name": "document-photo.svg",
-   "keywords": ""
- },
- {
-   "name": "document-printed.svg",
-   "keywords": "paper"
- },
- {
-   "name": "document-record-person.svg",
-   "keywords": ""
- },
- {
-   "name": "document-record-search.svg",
-   "keywords": "find"
- },
- {
-   "name": "document-story.svg",
-   "keywords": "write"
- },
- {
-   "name": "event-bar-bat-mitzvah.svg",
-   "keywords": "person life event"
- },
- {
-   "name": "event-birth.svg",
-   "keywords": "person life event"
- },
- {
-   "name": "event-burial.svg",
-   "keywords": "person life event"
- },
- {
-   "name": "event-census.svg",
-   "keywords": "person life event"
- },
- {
-   "name": "event-christening.svg",
-   "keywords": "person life event"
- },
- {
-   "name": "event-court.svg",
-   "keywords": "person life event"
- },
- {
-   "name": "event-cremation.svg",
-   "keywords": "person life event"
- },
- {
-   "name": "event-death.svg",
-   "keywords": "person life event"
- },
- {
-   "name": "event-divorce.svg",
-   "keywords": "person life event"
- },
- {
-   "name": "event-historical.svg",
-   "keywords": "person life event"
- },
- {
-   "name": "event-immigration.svg",
-   "keywords": "person life event"
- },
- {
-   "name": "event-marriage.svg",
-   "keywords": "person life event"
- },
- {
-   "name": "event-military-service.svg",
-   "keywords": "person life event"
- },
- {
-   "name": "event-naturalization.svg",
-   "keywords": "person life event"
- },
- {
-   "name": "event-nobility.svg",
-   "keywords": "person life event"
- },
- {
-   "name": "event-occupation.svg",
-   "keywords": "person life event"
- },
- {
-   "name": "help-announcement.svg",
-   "keywords": "what's new"
- },
- {
-   "name": "help-ask-question.svg",
-   "keywords": ""
- },
- {
-   "name": "help-compass.svg",
-   "keywords": ""
- },
- {
-   "name": "help-preserver.svg",
-   "keywords": ""
- },
- {
-   "name": "help-test-drive.svg",
-   "keywords": "trial"
- },
- {
-   "name": "help-tip.svg",
-   "keywords": "idea"
- },
- {
-   "name": "help-touch.svg",
-   "keywords": "tap"
- },
- {
-   "name": "logo-facebook.svg",
-   "keywords": "social media"
- },
- {
-   "name": "logo-familysearch.svg",
-   "keywords": ""
- },
- {
-   "name": "logo-fb-messenger.svg",
-   "keywords": "social media"
- },
- {
-   "name": "logo-github.svg",
-   "keywords": ""
- },
- {
-   "name": "logo-google.svg",
-   "keywords": "social media"
- },
- {
-   "name": "logo-pinterest.svg",
-   "keywords": "social media"
- },
- {
-   "name": "logo-rootstech.svg",
-   "keywords": ""
- },
- {
-   "name": "logo-twitter.svg",
-   "keywords": "social media"
- },
- {
-   "name": "logo-whatsapp.svg",
-   "keywords": "social media"
- },
- {
-   "name": "logo-yahoo.svg",
-   "keywords": ""
- },
- {
-   "name": "media-backward.svg",
-   "keywords": "audio player"
- },
- {
-   "name": "media-camera.svg",
-   "keywords": "picture"
- },
- {
-   "name": "media-film.svg",
-   "keywords": "microfilm"
- },
- {
-   "name": "media-forward.svg",
-   "keywords": "audio player"
- },
- {
-   "name": "media-headphones.svg",
-   "keywords": "listen audio"
- },
- {
-   "name": "media-microphone-off.svg",
-   "keywords": "audio record"
- },
- {
-   "name": "media-microphone.svg",
-   "keywords": "audio"
- },
- {
-   "name": "media-next.svg",
-   "keywords": "audio player"
- },
- {
-   "name": "media-pause.svg",
-   "keywords": "audio player"
- },
- {
-   "name": "media-play.svg",
-   "keywords": "audio player"
- },
- {
-   "name": "media-previous.svg",
-   "keywords": "audio player"
- },
- {
-   "name": "media-stop.svg",
-   "keywords": "audio player"
- },
- {
-   "name": "media-video-camera.svg",
-   "keywords": "record"
- },
- {
-   "name": "media-volume-mute.svg",
-   "keywords": "off"
- },
- {
-   "name": "media-volume.svg",
-   "keywords": "louder"
- },
- {
-   "name": "menu-close-circle-no-export.svg",
-   "keywords": ""
- },
- {
-   "name": "menu-close.svg",
-   "keywords": "cancel exit"
- },
- {
-   "name": "menu-filter.svg",
-   "keywords": ""
- },
- {
-   "name": "menu-home.svg",
-   "keywords": "house"
- },
- {
-   "name": "menu-more.svg",
-   "keywords": "misc"
- },
- {
-   "name": "menu-new-window.svg",
-   "keywords": "new tab"
- },
- {
-   "name": "menu-search.svg",
-   "keywords": "find"
- },
- {
-   "name": "menu-settings.svg",
-   "keywords": "system"
- },
- {
-   "name": "menu.svg",
-   "keywords": "more collapse hamburger"
- },
- {
-   "name": "notice-do-not.svg",
-   "keywords": ""
- },
- {
-   "name": "notice-important.svg",
-   "keywords": "Snake! Snake!!!"
- },
- {
-   "name": "notice-info.svg",
-   "keywords": "learn more"
- },
- {
-   "name": "notice-loading.svg",
-   "keywords": "wait"
- },
- {
-   "name": "notice-mute.svg",
-   "keywords": "notification off unsubscribe"
- },
- {
-   "name": "notice-protected.svg",
-   "keywords": "secure safe"
- },
- {
-   "name": "notice-question.svg",
-   "keywords": ""
- },
- {
-   "name": "notice-suggestion.svg",
-   "keywords": "guide"
- },
- {
-   "name": "notice-warning.svg",
-   "keywords": "triangle"
- },
- {
-   "name": "notice.svg",
-   "keywords": "notification receive subscribe"
- },
- {
-   "name": "person-duplicates.svg",
-   "keywords": ""
- },
- {
-   "name": "person-family.svg",
-   "keywords": ""
- },
- {
-   "name": "person-female-no-export.svg",
-   "keywords": ""
- },
- {
-   "name": "person-group.svg",
-   "keywords": ""
- },
- {
-   "name": "person-male-no-export.svg",
-   "keywords": ""
- },
- {
-   "name": "person-search.svg",
-   "keywords": "find"
- },
- {
-   "name": "person-sex-unknown-no-export.svg",
-   "keywords": ""
- },
- {
-   "name": "person.svg",
-   "keywords": ""
- },
- {
-   "name": "place-amusement.svg",
-   "keywords": "map location"
- },
- {
-   "name": "place-cemetary.svg",
-   "keywords": "map location"
- },
- {
-   "name": "place-church.svg",
-   "keywords": "map location"
- },
- {
-   "name": "place-city.svg",
-   "keywords": "map location"
- },
- {
-   "name": "place-county.svg",
-   "keywords": "map location"
- },
- {
-   "name": "place-court.svg",
-   "keywords": "map location"
- },
- {
-   "name": "place-farm.svg",
-   "keywords": "map location"
- },
- {
-   "name": "place-home.svg",
-   "keywords": "map location"
- },
- {
-   "name": "place-hospital.svg",
-   "keywords": "map location"
- },
- {
-   "name": "place-island.svg",
-   "keywords": "map location"
- },
- {
-   "name": "place-lower-division.svg",
-   "keywords": "map location"
- },
- {
-   "name": "place-military.svg",
-   "keywords": "map location"
- },
- {
-   "name": "place-other.svg",
-   "keywords": "map location"
- },
- {
-   "name": "place-post-office.svg",
-   "keywords": "map location"
- },
- {
-   "name": "place-prominent-building.svg",
-   "keywords": "map location"
- },
- {
-   "name": "place-region.svg",
-   "keywords": "map location"
- },
- {
-   "name": "place-store.svg",
-   "keywords": "map location"
- },
- {
-   "name": "place-temple.svg",
-   "keywords": "map location"
- },
- {
-   "name": "place-tribe.svg",
-   "keywords": "map location"
- },
- {
-   "name": "place-village.svg",
-   "keywords": "map location"
- },
- {
-   "name": "place-world.svg",
-   "keywords": "map location"
- },
- {
-   "name": "social-call.svg",
-   "keywords": "phone"
- },
- {
-   "name": "social-chat.svg",
-   "keywords": ""
- },
- {
-   "name": "social-comment.svg",
-   "keywords": ""
- },
- {
-   "name": "social-contributions.svg",
-   "keywords": ""
- },
- {
-   "name": "social-email-open.svg",
-   "keywords": ""
- },
- {
-   "name": "social-email.svg",
-   "keywords": ""
- },
- {
-   "name": "social-face-content.svg",
-   "keywords": "patron satisfaction feedback"
- },
- {
-   "name": "social-face-happy.svg",
-   "keywords": "patron satisfaction feedback"
- },
- {
-   "name": "social-face-love.svg",
-   "keywords": "patron satisfaction feedback"
- },
- {
-   "name": "social-face-mad.svg",
-   "keywords": "patron satisfaction feedback"
- },
- {
-   "name": "social-face-neutral.svg",
-   "keywords": "patron satisfaction feedback"
- },
- {
-   "name": "social-face-sad.svg",
-   "keywords": "patron satisfaction feedback"
- },
- {
-   "name": "social-like.svg",
-   "keywords": ""
- },
- {
-   "name": "social-love.svg",
-   "keywords": ""
- },
- {
-   "name": "social-message.svg",
-   "keywords": ""
- },
- {
-   "name": "social-send.svg",
-   "keywords": ""
- },
- {
-   "name": "social-share.svg",
-   "keywords": ""
- },
- {
-   "name": "social-star.svg",
-   "keywords": "watch rate"
- },
- {
-   "name": "thing-calendar.svg",
-   "keywords": "date"
- },
- {
-   "name": "thing-device.svg",
-   "keywords": "tablet phone"
- },
- {
-   "name": "thing-flag.svg",
-   "keywords": "discovery"
- },
- {
-   "name": "thing-food.svg",
-   "keywords": "discovery"
- },
- {
-   "name": "thing-fuel.svg",
-   "keywords": "discovery"
- },
- {
-   "name": "thing-map-pin.svg",
-   "keywords": "location place"
- },
- {
-   "name": "thing-map.svg",
-   "keywords": "location place"
- },
- {
-   "name": "thing-money.svg",
-   "keywords": "currency discovery"
- },
- {
-   "name": "thing-movie.svg",
-   "keywords": "discovery"
- },
- {
-   "name": "thing-recipe.svg",
-   "keywords": "discovery"
- },
- {
-   "name": "thing-stamp.svg",
-   "keywords": "discovery"
- },
- {
-   "name": "thing-ticket.svg",
-   "keywords": "discovery"
- },
- {
-   "name": "thing-timer.svg",
-   "keywords": "countdown"
- },
- {
-   "name": "thing-trophy.svg",
-   "keywords": "win discovery"
- },
- {
-   "name": "tree-descendancy.svg",
-   "keywords": ""
- },
- {
-   "name": "tree-fan.svg",
-   "keywords": ""
- },
- {
-   "name": "tree-pedigree.svg",
-   "keywords": ""
- },
- {
-   "name": "tree-view-relationship.svg",
-   "keywords": ""
- }
+  {
+    "name": "activity-baseball",
+    "keywords": "discovery"
+  },
+  {
+    "name": "activity-basketball",
+    "keywords": "discovery"
+  },
+  {
+    "name": "activity-football",
+    "keywords": "discovery"
+  },
+  {
+    "name": "activity-learn",
+    "keywords": "discovery"
+  },
+  {
+    "name": "activity-music",
+    "keywords": "discovery"
+  },
+  {
+    "name": "activity-science",
+    "keywords": "discovery"
+  },
+  {
+    "name": "activity-soccer",
+    "keywords": "discovery"
+  },
+  {
+    "name": "activity-tennis",
+    "keywords": "discovery"
+  },
+  {
+    "name": "arrow-caret",
+    "keywords": "expand collapse dropdown"
+  },
+  {
+    "name": "arrow-change",
+    "keywords": "sync"
+  },
+  {
+    "name": "arrow-rotate",
+    "keywords": "turn"
+  },
+  {
+    "name": "arrow-swap",
+    "keywords": "switch"
+  },
+  {
+    "name": "arrow",
+    "keywords": "go"
+  },
+  {
+    "name": "content-add",
+    "keywords": "plus include"
+  },
+  {
+    "name": "content-attach",
+    "keywords": "record"
+  },
+  {
+    "name": "content-attached",
+    "keywords": "record"
+  },
+  {
+    "name": "content-check",
+    "keywords": "done complete finish"
+  },
+  {
+    "name": "content-copy",
+    "keywords": "duplicate"
+  },
+  {
+    "name": "content-delete",
+    "keywords": "remove trash"
+  },
+  {
+    "name": "content-detach",
+    "keywords": "record"
+  },
+  {
+    "name": "content-download",
+    "keywords": ""
+  },
+  {
+    "name": "content-edit",
+    "keywords": "change"
+  },
+  {
+    "name": "content-flag",
+    "keywords": "report"
+  },
+  {
+    "name": "content-history",
+    "keywords": "revert"
+  },
+  {
+    "name": "content-link",
+    "keywords": "hyperlink"
+  },
+  {
+    "name": "content-lock",
+    "keywords": ""
+  },
+  {
+    "name": "content-print",
+    "keywords": ""
+  },
+  {
+    "name": "content-remove",
+    "keywords": "minus exclude"
+  },
+  {
+    "name": "content-tag",
+    "keywords": "topic"
+  },
+  {
+    "name": "content-undo",
+    "keywords": ""
+  },
+  {
+    "name": "content-unlink",
+    "keywords": ""
+  },
+  {
+    "name": "content-upload",
+    "keywords": ""
+  },
+  {
+    "name": "control-brightness-less",
+    "keywords": ""
+  },
+  {
+    "name": "control-brightness-more",
+    "keywords": ""
+  },
+  {
+    "name": "control-contrast-less",
+    "keywords": ""
+  },
+  {
+    "name": "control-contrast-more",
+    "keywords": ""
+  },
+  {
+    "name": "control-crop",
+    "keywords": ""
+  },
+  {
+    "name": "control-expand",
+    "keywords": ""
+  },
+  {
+    "name": "control-exposure",
+    "keywords": ""
+  },
+  {
+    "name": "control-fullscreen-exit",
+    "keywords": ""
+  },
+  {
+    "name": "control-fullscreen",
+    "keywords": ""
+  },
+  {
+    "name": "control-grid",
+    "keywords": ""
+  },
+  {
+    "name": "control-hide",
+    "keywords": "eye"
+  },
+  {
+    "name": "control-highlight",
+    "keywords": "mark"
+  },
+  {
+    "name": "control-invert",
+    "keywords": ""
+  },
+  {
+    "name": "control-list",
+    "keywords": ""
+  },
+  {
+    "name": "control-settings-adjust",
+    "keywords": ""
+  },
+  {
+    "name": "control-split",
+    "keywords": ""
+  },
+  {
+    "name": "control-target",
+    "keywords": ""
+  },
+  {
+    "name": "control-view",
+    "keywords": "eye"
+  },
+  {
+    "name": "discovery-heritage",
+    "keywords": ""
+  },
+  {
+    "name": "discovery-name-meaning",
+    "keywords": ""
+  },
+  {
+    "name": "discovery-name-popularity",
+    "keywords": ""
+  },
+  {
+    "name": "discovery-population",
+    "keywords": ""
+  },
+  {
+    "name": "document-basic",
+    "keywords": "regular"
+  },
+  {
+    "name": "document-blank",
+    "keywords": ""
+  },
+  {
+    "name": "document-book-open",
+    "keywords": ""
+  },
+  {
+    "name": "document-book",
+    "keywords": ""
+  },
+  {
+    "name": "document-box",
+    "keywords": "source"
+  },
+  {
+    "name": "document-camera",
+    "keywords": ""
+  },
+  {
+    "name": "document-certificate",
+    "keywords": ""
+  },
+  {
+    "name": "document-check",
+    "keywords": "done complete"
+  },
+  {
+    "name": "document-folder-love",
+    "keywords": ""
+  },
+  {
+    "name": "document-folder-open",
+    "keywords": "active album"
+  },
+  {
+    "name": "document-folder",
+    "keywords": "album"
+  },
+  {
+    "name": "document-image",
+    "keywords": "png jpeg jpg tiff"
+  },
+  {
+    "name": "document-list",
+    "keywords": ""
+  },
+  {
+    "name": "document-pdf",
+    "keywords": ""
+  },
+  {
+    "name": "document-photo",
+    "keywords": ""
+  },
+  {
+    "name": "document-printed",
+    "keywords": "paper"
+  },
+  {
+    "name": "document-record-person",
+    "keywords": ""
+  },
+  {
+    "name": "document-record-search",
+    "keywords": "find"
+  },
+  {
+    "name": "document-story",
+    "keywords": "write"
+  },
+  {
+    "name": "event-bar-bat-mitzvah",
+    "keywords": "person life event"
+  },
+  {
+    "name": "event-birth",
+    "keywords": "person life event"
+  },
+  {
+    "name": "event-burial",
+    "keywords": "person life event"
+  },
+  {
+    "name": "event-census",
+    "keywords": "person life event"
+  },
+  {
+    "name": "event-christening",
+    "keywords": "person life event"
+  },
+  {
+    "name": "event-court",
+    "keywords": "person life event"
+  },
+  {
+    "name": "event-cremation",
+    "keywords": "person life event"
+  },
+  {
+    "name": "event-death",
+    "keywords": "person life event"
+  },
+  {
+    "name": "event-divorce",
+    "keywords": "person life event"
+  },
+  {
+    "name": "event-historical",
+    "keywords": "person life event"
+  },
+  {
+    "name": "event-immigration",
+    "keywords": "person life event"
+  },
+  {
+    "name": "event-marriage",
+    "keywords": "person life event"
+  },
+  {
+    "name": "event-military-service",
+    "keywords": "person life event"
+  },
+  {
+    "name": "event-naturalization",
+    "keywords": "person life event"
+  },
+  {
+    "name": "event-nobility",
+    "keywords": "person life event"
+  },
+  {
+    "name": "event-occupation",
+    "keywords": "person life event"
+  },
+  {
+    "name": "help-announcement",
+    "keywords": "what's new"
+  },
+  {
+    "name": "help-ask-question",
+    "keywords": ""
+  },
+  {
+    "name": "help-compass",
+    "keywords": ""
+  },
+  {
+    "name": "help-preserver",
+    "keywords": ""
+  },
+  {
+    "name": "help-test-drive",
+    "keywords": "trial"
+  },
+  {
+    "name": "help-tip",
+    "keywords": "idea"
+  },
+  {
+    "name": "help-touch",
+    "keywords": "tap"
+  },
+  {
+    "name": "logo-facebook",
+    "keywords": "social media"
+  },
+  {
+    "name": "logo-familysearch",
+    "keywords": ""
+  },
+  {
+    "name": "logo-fb-messenger",
+    "keywords": "social media"
+  },
+  {
+    "name": "logo-github",
+    "keywords": ""
+  },
+  {
+    "name": "logo-google",
+    "keywords": "social media"
+  },
+  {
+    "name": "logo-pinterest",
+    "keywords": "social media"
+  },
+  {
+    "name": "logo-rootstech",
+    "keywords": ""
+  },
+  {
+    "name": "logo-twitter",
+    "keywords": "social media"
+  },
+  {
+    "name": "logo-whatsapp",
+    "keywords": "social media"
+  },
+  {
+    "name": "logo-yahoo",
+    "keywords": ""
+  },
+  {
+    "name": "media-backward",
+    "keywords": "audio player"
+  },
+  {
+    "name": "media-camera",
+    "keywords": "picture"
+  },
+  {
+    "name": "media-film",
+    "keywords": "microfilm"
+  },
+  {
+    "name": "media-forward",
+    "keywords": "audio player"
+  },
+  {
+    "name": "media-headphones",
+    "keywords": "listen audio"
+  },
+  {
+    "name": "media-microphone-off",
+    "keywords": "audio record"
+  },
+  {
+    "name": "media-microphone",
+    "keywords": "audio"
+  },
+  {
+    "name": "media-next",
+    "keywords": "audio player"
+  },
+  {
+    "name": "media-pause",
+    "keywords": "audio player"
+  },
+  {
+    "name": "media-play",
+    "keywords": "audio player"
+  },
+  {
+    "name": "media-previous",
+    "keywords": "audio player"
+  },
+  {
+    "name": "media-stop",
+    "keywords": "audio player"
+  },
+  {
+    "name": "media-video-camera",
+    "keywords": "record"
+  },
+  {
+    "name": "media-volume-mute",
+    "keywords": "off"
+  },
+  {
+    "name": "media-volume",
+    "keywords": "louder"
+  },
+  {
+    "name": "menu-close-circle-no-export",
+    "keywords": ""
+  },
+  {
+    "name": "menu-close",
+    "keywords": "cancel exit"
+  },
+  {
+    "name": "menu-filter",
+    "keywords": ""
+  },
+  {
+    "name": "menu-home",
+    "keywords": "house"
+  },
+  {
+    "name": "menu-more",
+    "keywords": "misc"
+  },
+  {
+    "name": "menu-new-window",
+    "keywords": "new tab"
+  },
+  {
+    "name": "menu-search",
+    "keywords": "find"
+  },
+  {
+    "name": "menu-settings",
+    "keywords": "system"
+  },
+  {
+    "name": "menu",
+    "keywords": "more collapse hamburger"
+  },
+  {
+    "name": "notice-do-not",
+    "keywords": ""
+  },
+  {
+    "name": "notice-important",
+    "keywords": "Snake! Snake!!!"
+  },
+  {
+    "name": "notice-info",
+    "keywords": "learn more"
+  },
+  {
+    "name": "notice-loading",
+    "keywords": "wait"
+  },
+  {
+    "name": "notice-mute",
+    "keywords": "notification off unsubscribe"
+  },
+  {
+    "name": "notice-protected",
+    "keywords": "secure safe"
+  },
+  {
+    "name": "notice-question",
+    "keywords": ""
+  },
+  {
+    "name": "notice-suggestion",
+    "keywords": "guide"
+  },
+  {
+    "name": "notice-warning",
+    "keywords": "triangle"
+  },
+  {
+    "name": "notice",
+    "keywords": "notification receive subscribe"
+  },
+  {
+    "name": "person-duplicates",
+    "keywords": ""
+  },
+  {
+    "name": "person-family",
+    "keywords": ""
+  },
+  {
+    "name": "person-female-no-export",
+    "keywords": ""
+  },
+  {
+    "name": "person-group",
+    "keywords": ""
+  },
+  {
+    "name": "person-male-no-export",
+    "keywords": ""
+  },
+  {
+    "name": "person-search",
+    "keywords": "find"
+  },
+  {
+    "name": "person-sex-unknown-no-export",
+    "keywords": ""
+  },
+  {
+    "name": "person",
+    "keywords": ""
+  },
+  {
+    "name": "place-amusement",
+    "keywords": "map location"
+  },
+  {
+    "name": "place-cemetary",
+    "keywords": "map location"
+  },
+  {
+    "name": "place-church",
+    "keywords": "map location"
+  },
+  {
+    "name": "place-city",
+    "keywords": "map location"
+  },
+  {
+    "name": "place-county",
+    "keywords": "map location"
+  },
+  {
+    "name": "place-court",
+    "keywords": "map location"
+  },
+  {
+    "name": "place-farm",
+    "keywords": "map location"
+  },
+  {
+    "name": "place-home",
+    "keywords": "map location"
+  },
+  {
+    "name": "place-hospital",
+    "keywords": "map location"
+  },
+  {
+    "name": "place-island",
+    "keywords": "map location"
+  },
+  {
+    "name": "place-lower-division",
+    "keywords": "map location"
+  },
+  {
+    "name": "place-military",
+    "keywords": "map location"
+  },
+  {
+    "name": "place-other",
+    "keywords": "map location"
+  },
+  {
+    "name": "place-post-office",
+    "keywords": "map location"
+  },
+  {
+    "name": "place-prominent-building",
+    "keywords": "map location"
+  },
+  {
+    "name": "place-region",
+    "keywords": "map location"
+  },
+  {
+    "name": "place-store",
+    "keywords": "map location"
+  },
+  {
+    "name": "place-temple",
+    "keywords": "map location"
+  },
+  {
+    "name": "place-tribe",
+    "keywords": "map location"
+  },
+  {
+    "name": "place-village",
+    "keywords": "map location"
+  },
+  {
+    "name": "place-world",
+    "keywords": "map location"
+  },
+  {
+    "name": "social-call",
+    "keywords": "phone"
+  },
+  {
+    "name": "social-chat",
+    "keywords": ""
+  },
+  {
+    "name": "social-comment",
+    "keywords": ""
+  },
+  {
+    "name": "social-contributions",
+    "keywords": ""
+  },
+  {
+    "name": "social-email-open",
+    "keywords": ""
+  },
+  {
+    "name": "social-email",
+    "keywords": ""
+  },
+  {
+    "name": "social-face-content",
+    "keywords": "patron satisfaction feedback"
+  },
+  {
+    "name": "social-face-happy",
+    "keywords": "patron satisfaction feedback"
+  },
+  {
+    "name": "social-face-love",
+    "keywords": "patron satisfaction feedback"
+  },
+  {
+    "name": "social-face-mad",
+    "keywords": "patron satisfaction feedback"
+  },
+  {
+    "name": "social-face-neutral",
+    "keywords": "patron satisfaction feedback"
+  },
+  {
+    "name": "social-face-sad",
+    "keywords": "patron satisfaction feedback"
+  },
+  {
+    "name": "social-like",
+    "keywords": ""
+  },
+  {
+    "name": "social-love",
+    "keywords": ""
+  },
+  {
+    "name": "social-message",
+    "keywords": ""
+  },
+  {
+    "name": "social-send",
+    "keywords": ""
+  },
+  {
+    "name": "social-share",
+    "keywords": ""
+  },
+  {
+    "name": "social-star",
+    "keywords": "watch rate"
+  },
+  {
+    "name": "thing-calendar",
+    "keywords": "date"
+  },
+  {
+    "name": "thing-device",
+    "keywords": "tablet phone"
+  },
+  {
+    "name": "thing-flag",
+    "keywords": "discovery"
+  },
+  {
+    "name": "thing-food",
+    "keywords": "discovery"
+  },
+  {
+    "name": "thing-fuel",
+    "keywords": "discovery"
+  },
+  {
+    "name": "thing-map-pin",
+    "keywords": "location place"
+  },
+  {
+    "name": "thing-map",
+    "keywords": "location place"
+  },
+  {
+    "name": "thing-money",
+    "keywords": "currency discovery"
+  },
+  {
+    "name": "thing-movie",
+    "keywords": "discovery"
+  },
+  {
+    "name": "thing-recipe",
+    "keywords": "discovery"
+  },
+  {
+    "name": "thing-stamp",
+    "keywords": "discovery"
+  },
+  {
+    "name": "thing-ticket",
+    "keywords": "discovery"
+  },
+  {
+    "name": "thing-timer",
+    "keywords": "countdown"
+  },
+  {
+    "name": "thing-trophy",
+    "keywords": "win discovery"
+  },
+  {
+    "name": "tree-descendancy",
+    "keywords": ""
+  },
+  {
+    "name": "tree-fan",
+    "keywords": ""
+  },
+  {
+    "name": "tree-pedigree",
+    "keywords": ""
+  },
+  {
+    "name": "tree-view-relationship",
+    "keywords": ""
+  }
 ]

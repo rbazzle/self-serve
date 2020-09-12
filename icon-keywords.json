@@ -41,17 +41,17 @@
   },
   {
     "name": "arrow-caret",
-    "description": "This icon signifies an expandable item, or to be used for next/previous affordances.",
+    "description": "This icon signifies an expandable item, or to be used for next/previous affordances",
     "keywords": "expand collapse dropdown"
   },
   {
     "name": "arrow-change",
-    "description": "This icon signifies an action to refresh or sync information.",
+    "description": "This icon signifies an action to refresh or sync information",
     "keywords": "sync"
   },
   {
     "name": "arrow-rotate",
-    "description": "This icon signifies an action to rotate an image.",
+    "description": "This icon signifies an action to rotate an image",
     "keywords": "turn"
   },
   {
@@ -61,7 +61,7 @@
   },
   {
     "name": "arrow",
-    "description": "This icon signifies that the user will be taken somewhere when clicked. It is mostly to be used as a back button.",
+    "description": "This icon signifies that the user will be taken somewhere when clicked. It is mostly to be used as a back button",
     "keywords": "go"
   },
   {
@@ -71,27 +71,27 @@
   },
   {
     "name": "content-attach",
-    "description": "This icon signifies an action to attach. It is not to be used to indicate that content is attached (use content-attached).",
+    "description": "This icon signifies an action to attach. It is not to be used to indicate that content is attached (use content-attached)",
     "keywords": "record"
   },
   {
     "name": "content-attached",
-    "description": "This icon signifies that content is attached.",
+    "description": "This icon signifies that content is attached",
     "keywords": "record"
   },
   {
     "name": "content-bullet",
-    "description": "This icon signifies a neutral validation state. For an unordered list, a standard text bullet should be used.",
+    "description": "This icon signifies a neutral validation state. For an unordered list, a standard text bullet should be used",
     "keywords": "point list item"
   },
   {
     "name": "content-check",
-    "description": "This icon signifies that something has been done successfully.",
+    "description": "This icon signifies that something has been done successfully",
     "keywords": "done complete finish"
   },
   {
     "name": "content-compose",
-    "description": "This icon signifies an action to create a new (often longform) written object, such as a Story in Memories.",
+    "description": "This icon signifies an action to create a new (often longform) written object, such as a Story in Memories",
     "keywords": ""
   },
   {
@@ -106,7 +106,7 @@
   },
   {
     "name": "content-detach",
-    "description": "This icon signifies an action to detach content. It does not indicate that content is no longer attached.",
+    "description": "This icon signifies an action to detach content. It does not indicate that content is no longer attached",
     "keywords": "record"
   },
   {
@@ -116,17 +116,17 @@
   },
   {
     "name": "content-edit",
-    "description": "This icon signifies an action to start editing something. It does not indicate that something has been edited (use content-history).",
+    "description": "This icon signifies an action to start editing something. It does not indicate that something has been edited (use content-history)",
     "keywords": "change pencil"
   },
   {
     "name": "content-flag",
-    "description": "This icon signifies an action to report something to Support.",
+    "description": "This icon signifies an action to report something to Support",
     "keywords": "report"
   },
   {
     "name": "content-history",
-    "description": "This icon signifies that a change has taken place.",
+    "description": "This icon signifies that a change has taken place",
     "keywords": "revert"
   },
   {
@@ -141,7 +141,7 @@
   },
   {
     "name": "content-print",
-    "description": "This icon signifies an action to print.",
+    "description": "This icon signifies an action to print",
     "keywords": ""
   },
   {
@@ -151,12 +151,12 @@
   },
   {
     "name": "content-tag",
-    "description": "This icon signifies an action to add a new tag to a Memory.",
+    "description": "This icon signifies an action to add a new tag to a Memory",
     "keywords": "topic"
   },
   {
     "name": "content-undo",
-    "description": "This icon signifies an action to undo. It does not indicate an action to rotate (use arrow-rotate).",
+    "description": "This icon signifies an action to undo. It does not indicate an action to rotate (use arrow-rotate)",
     "keywords": ""
   },
   {
@@ -181,22 +181,22 @@
   },
   {
     "name": "control-brightness-less",
-    "description": "This icon signifies an action to decrease the brightness of an image. It does not indicate toggling the daybreak theme.",
+    "description": "This icon signifies an action to decrease the brightness of an image. It does not indicate toggling the daybreak theme",
     "keywords": ""
   },
   {
     "name": "control-brightness-more",
-    "description": "This icon signifies an action to increase the brightness of an image. It does not indicate toggling the daybreak theme.",
+    "description": "This icon signifies an action to increase the brightness of an image. It does not indicate toggling the daybreak theme",
     "keywords": ""
   },
   {
     "name": "control-contrast-less",
-    "description": "This icon signifies an action to decrease the contrast of an image. It does not indicate toggling the daybreak theme.",
+    "description": "This icon signifies an action to decrease the contrast of an image. It does not indicate toggling the daybreak theme",
     "keywords": ""
   },
   {
     "name": "control-contrast-more",
-    "description": "This icon signifies an action to increase the contrast of an image. It does not indicate toggling the daybreak theme.",
+    "description": "This icon signifies an action to increase the contrast of an image. It does not indicate toggling the daybreak theme",
     "keywords": ""
   },
   {
@@ -211,7 +211,7 @@
   },
   {
     "name": "control-exposure",
-    "description": "This icon signifies an action to adjust the exposure of an image. It does not indicate toggling the daybreak/nightfall theme.",
+    "description": "This icon signifies an action to adjust the exposure of an image. It does not indicate toggling the daybreak/nightfall theme",
     "keywords": ""
   },
   {
@@ -226,32 +226,32 @@
   },
   {
     "name": "control-grid",
-    "description": "This icon signifies a state or action to view a set of images or objects in a grid layout.",
+    "description": "This icon signifies a state or action to view a set of images or objects in a grid layout",
     "keywords": ""
   },
   {
     "name": "control-hide",
-    "description": "This icon signifies an action to hide something that is currently in view.",
+    "description": "This icon signifies an action to hide something that is currently in view",
     "keywords": "eye"
   },
   {
     "name": "control-highlight",
-    "description": "This icon signifies an action to add a highlight to an image.",
+    "description": "This icon signifies an action to add a highlight to an image",
     "keywords": "mark"
   },
   {
     "name": "control-invert",
-    "description": "This icon signifies an action to invert the colors of an image. It does not indicate toggling the daybreak/nightfall theme.",
+    "description": "This icon signifies an action to invert the colors of an image. It does not indicate toggling the daybreak/nightfall theme",
     "keywords": ""
   },
   {
     "name": "control-list",
-    "description": "This icon signifies a state or action to view a set of images or objects in a listed layout. It does not signify a menu (use menu).",
+    "description": "This icon signifies a state or action to view a set of images or objects in a listed layout. It does not signify a menu (use menu)",
     "keywords": ""
   },
   {
     "name": "control-settings-adjust",
-    "description": "This icon signifies a menu of tools to manipulate an image in the Image Viewer.",
+    "description": "This icon signifies a menu of tools to manipulate an image in the Image Viewer",
     "keywords": ""
   },
   {
@@ -266,37 +266,37 @@
   },
   {
     "name": "control-target",
-    "description": "This icon signifies re-centering the user's view back to the default position.",
+    "description": "This icon signifies re-centering the user's view back to the default position",
     "keywords": ""
   },
   {
     "name": "control-view",
-    "description": "This icon signifies an action to show something that is currently hidden.",
+    "description": "This icon signifies an action to show something that is currently hidden",
     "keywords": "eye"
   },
   {
     "name": "discovery-heritage",
-    "description": "This icon signifies the \"Where Am I From\" product.",
+    "description": "This icon signifies the \"Where Am I From\" product",
     "keywords": ""
   },
   {
     "name": "discovery-name-meaning",
-    "description": "This icon signifies the \"Name Meaning\" feature in the \"All About Me\" product.",
+    "description": "This icon signifies the \"Name Meaning\" feature in the \"All About Me\" product",
     "keywords": ""
   },
   {
     "name": "discovery-name-popularity",
-    "description": "This icon signifies the \"Name Popularity\" feature in the \"All About Me\" product.",
+    "description": "This icon signifies the \"Name Popularity\" feature in the \"All About Me\" product",
     "keywords": ""
   },
   {
     "name": "discovery-population",
-    "description": "This icon signifies the \"Population Quiz\" feature in the \"All About Me\" product.",
+    "description": "This icon signifies the \"Population Quiz\" feature in the \"All About Me\" product",
     "keywords": ""
   },
   {
     "name": "document-basic",
-    "description": "This icon signifies a record.",
+    "description": "This icon signifies a record",
     "keywords": "regular"
   },
   {
@@ -311,12 +311,12 @@
   },
   {
     "name": "document-book",
-    "description": "This icon signifies the Memory type \"Documents\".",
+    "description": "This icon signifies the Memory type \"Documents\"",
     "keywords": ""
   },
   {
     "name": "document-box",
-    "description": "This icon signifies the \"Source Box\" product.",
+    "description": "This icon signifies the \"Source Box\" product",
     "keywords": "source"
   },
   {
@@ -336,7 +336,7 @@
   },
   {
     "name": "document-folder-love",
-    "description": "This icon signifies the \"Liked Memories\" collection in the Memories Gallery.",
+    "description": "This icon signifies the \"Liked Memories\" collection in the Memories Gallery",
     "keywords": ""
   },
   {
@@ -346,7 +346,7 @@
   },
   {
     "name": "document-folder",
-    "description": "This icon signifies an album in Memories.",
+    "description": "This icon signifies an album in Memories",
     "keywords": "album"
   },
   {
@@ -361,12 +361,12 @@
   },
   {
     "name": "document-pdf",
-    "description": "This icon signifies a PDF file format.",
+    "description": "This icon signifies a PDF file format",
     "keywords": ""
   },
   {
     "name": "document-photo",
-    "description": "This icon signifies the Memory type \"Photos\".",
+    "description": "This icon signifies the Memory type \"Photos\"",
     "keywords": ""
   },
   {
@@ -376,7 +376,7 @@
   },
   {
     "name": "document-record-person",
-    "description": "This icon signifies a persona from a record.",
+    "description": "This icon signifies a persona from a record",
     "keywords": ""
   },
   {
@@ -386,7 +386,7 @@
   },
   {
     "name": "document-story",
-    "description": "This icon signifies the Memory type \"Stories\".",
+    "description": "This icon signifies the Memory type \"Stories\"",
     "keywords": "write"
   },
   {
@@ -471,7 +471,7 @@
   },
   {
     "name": "help-announcement",
-    "description": "This icon signifies the \"FamilySearch Blog\" product.",
+    "description": "This icon signifies the \"FamilySearch Blog\" product",
     "keywords": "what's new"
   },
   {
@@ -486,7 +486,7 @@
   },
   {
     "name": "help-preserver",
-    "description": "This icon signifies the \"Help Others\" product.",
+    "description": "This icon signifies the \"Help Others\" product",
     "keywords": ""
   },
   {
@@ -496,7 +496,7 @@
   },
   {
     "name": "help-tip",
-    "description": "This icon signifies the \"Getting Started\" product.",
+    "description": "This icon signifies the \"Getting Started\" product",
     "keywords": "idea"
   },
   {
@@ -506,7 +506,7 @@
   },
   {
     "name": "logo-facebook",
-    "description": "This icon signifies an action to share something from FamilySearch to Facebook. It is not to be used as a link to FamilySearch's Facebook page.",
+    "description": "This icon signifies an action to share something from FamilySearch to Facebook. It is not to be used as a link to FamilySearch's Facebook page",
     "keywords": "social media"
   },
   {
@@ -516,7 +516,7 @@
   },
   {
     "name": "logo-fb-messenger",
-    "description": "This icon signifies an action to share something from FamilySearch to Facebook Messenger.",
+    "description": "This icon signifies an action to share something from FamilySearch to Facebook Messenger",
     "keywords": "social media"
   },
   {
@@ -526,12 +526,12 @@
   },
   {
     "name": "logo-google",
-    "description": "This icon signifies an action to share something from FamilySearch to Google+.",
+    "description": "This icon signifies an action to share something from FamilySearch to Google+",
     "keywords": "social media"
   },
   {
     "name": "logo-pinterest",
-    "description": "This icon signifies an action to share something from FamilySearch to Pinterest.",
+    "description": "This icon signifies an action to share something from FamilySearch to Pinterest",
     "keywords": "social media"
   },
   {
@@ -541,12 +541,12 @@
   },
   {
     "name": "logo-twitter",
-    "description": "This icon signifies an action to share something from FamilySearch to Twitter. It is not to be used as a link to FamilySearch's Twitter profile.",
+    "description": "This icon signifies an action to share something from FamilySearch to Twitter. It is not to be used as a link to FamilySearch's Twitter profile",
     "keywords": "social media"
   },
   {
     "name": "logo-whatsapp",
-    "description": "This icon signifies an action to share something from FamilySearch to WhatsApp.",
+    "description": "This icon signifies an action to share something from FamilySearch to WhatsApp",
     "keywords": "social media"
   },
   {
@@ -561,12 +561,12 @@
   },
   {
     "name": "media-camera",
-    "description": "This icon signifies an action to take a photo with the device's camera. It does not signify \"Photos\" in Memories (use document-photo).",
+    "description": "This icon signifies an action to take a photo with the device's camera. It does not signify \"Photos\" in Memories (use document-photo)",
     "keywords": "picture"
   },
   {
     "name": "media-film",
-    "description": "This icon signifies that a record is available on microfilm.",
+    "description": "This icon signifies that a record is available on microfilm",
     "keywords": "microfilm"
   },
   {
@@ -576,17 +576,17 @@
   },
   {
     "name": "media-headphones",
-    "description": "This icon signifies the Memory type \"Audio\".",
+    "description": "This icon signifies the Memory type \"Audio\"",
     "keywords": "listen audio"
   },
   {
     "name": "media-microphone-off",
-    "description": "This icon signifies an action to mute the device's microphone.",
+    "description": "This icon signifies an action to mute the device's microphone",
     "keywords": "audio record"
   },
   {
     "name": "media-microphone",
-    "description": "This icon signifies an action to enable the device's microphone or that the device's microphone is currently active/unmuted. It does not signify \"Audio\" in Memories (use media-headphones).",
+    "description": "This icon signifies an action to enable the device's microphone or that the device's microphone is currently active/unmuted. It does not signify \"Audio\" in Memories (use media-headphones)",
     "keywords": "audio"
   },
   {
@@ -626,12 +626,12 @@
   },
   {
     "name": "media-volume",
-    "description": "This icon signifies an action to adjust the volume or mute the device's speaker. It does not signify \"Audio\" in Memories (use media-headphones).",
+    "description": "This icon signifies an action to adjust the volume or mute the device's speaker. It does not signify \"Audio\" in Memories (use media-headphones)",
     "keywords": "louder"
   },
   {
     "name": "menu-close",
-    "description": "This is for closing an overlay or menu. It is not for deleting (use content-delete).",
+    "description": "This is for closing an overlay or menu. It is not for deleting (use content-delete)",
     "keywords": "cancel exit"
   },
   {
@@ -641,22 +641,22 @@
   },
   {
     "name": "menu-home",
-    "description": "This icon signifies the home screen of an app.",
+    "description": "This icon signifies the home screen of an app",
     "keywords": "house"
   },
   {
     "name": "menu-more",
-    "description": "This icon signifies an overflow menu of actions.",
+    "description": "This icon signifies an overflow menu of actions",
     "keywords": "misc"
   },
   {
     "name": "menu-new-window",
-    "description": "This icon signifies an action to follow a link to a new tab.",
+    "description": "This icon signifies an action to follow a link to a new tab",
     "keywords": "new tab"
   },
   {
     "name": "menu-search",
-    "description": "This icon signifies a way to search a database.",
+    "description": "This icon signifies a way to search a database",
     "keywords": "find"
   },
   {
@@ -666,7 +666,7 @@
   },
   {
     "name": "menu",
-    "description": "This icon signifies access to the top-level navigation of the app. It is not to be used elsewhere. This is not a drag-and-drop \"grip\".",
+    "description": "This icon signifies access to the top-level navigation of the app. It is not to be used elsewhere. This is not a drag-and-drop \"grip\"",
     "keywords": "more collapse hamburger"
   },
   {
@@ -676,7 +676,7 @@
   },
   {
     "name": "notice-important",
-    "description": "This icon signifies a error validation state.",
+    "description": "This icon signifies a error validation state",
     "keywords": "Snake! Snake!!!"
   },
   {
@@ -691,7 +691,7 @@
   },
   {
     "name": "notice-mute",
-    "description": "This icon signifies a state or action to mute notifications.",
+    "description": "This icon signifies a state or action to mute notifications",
     "keywords": "notification off unsubscribe"
   },
   {
@@ -701,27 +701,27 @@
   },
   {
     "name": "notice-question",
-    "description": "This opens the Help Overlay.",
+    "description": "This opens the Help Overlay",
     "keywords": ""
   },
   {
     "name": "notice-suggestion",
-    "description": "This icon signifies the \"Research Suggestions\" feature in the Family Tree.",
+    "description": "This icon signifies the \"Research Suggestions\" feature in the Family Tree",
     "keywords": "guide"
   },
   {
     "name": "notice-warning",
-    "description": "This icon signifies a warning validation state.",
+    "description": "This icon signifies a warning validation state",
     "keywords": "triangle"
   },
   {
     "name": "notice",
-    "description": "This icon signifies the \"Notifications\" product.",
+    "description": "This icon signifies the \"Notifications\" product",
     "keywords": "notification receive subscribe"
   },
   {
     "name": "person-duplicates",
-    "description": "This icon signifies the \"Possible Duplicates\" feature in the Family Tree.",
+    "description": "This icon signifies the \"Possible Duplicates\" feature in the Family Tree",
     "keywords": ""
   },
   {
@@ -756,7 +756,7 @@
   },
   {
     "name": "person",
-    "description": "This icon generally signifies \"user\" or \"a person in the Family Tree\". When mentioning a specific user or a specific person in the Family Tree, use Avatars.",
+    "description": "This icon generally signifies \"user\" or \"a person in the Family Tree\". When mentioning a specific user or a specific person in the Family Tree, use Avatars",
     "keywords": ""
   },
   {
@@ -896,7 +896,7 @@
   },
   {
     "name": "social-face-content",
-    "description": "This icon signifies a happy reaction. It does not signify a user or a person in the Family Tree (use person).",
+    "description": "This icon signifies a happy reaction. It does not signify a user or a person in the Family Tree (use person)",
     "keywords": "patron satisfaction feedback"
   },
   {
@@ -941,12 +941,12 @@
   },
   {
     "name": "social-send",
-    "description": "This icon signifies an action to send a message.",
+    "description": "This icon signifies an action to send a message",
     "keywords": "paper plane"
   },
   {
     "name": "social-share",
-    "description": "This icon signifies a menu of sharing options.",
+    "description": "This icon signifies a menu of sharing options",
     "keywords": ""
   },
   {
@@ -956,7 +956,7 @@
   },
   {
     "name": "thing-calendar",
-    "description": "This icon signifies a standardized date.",
+    "description": "This icon signifies a standardized date",
     "keywords": "date"
   },
   {
@@ -981,7 +981,7 @@
   },
   {
     "name": "thing-map-pin",
-    "description": "This icon signifies a standardized place.",
+    "description": "This icon signifies a standardized place",
     "keywords": "location place"
   },
   {
@@ -996,7 +996,7 @@
   },
   {
     "name": "thing-movie",
-    "description": "This icon signifies the \"Best Film\" feature in the \"All About Me\" product. It does not signify a video.",
+    "description": "This icon signifies the \"Best Film\" feature in the \"All About Me\" product. It does not signify a video",
     "keywords": "discovery"
   },
   {
@@ -1026,22 +1026,22 @@
   },
   {
     "name": "tree-descendancy",
-    "description": "This icon signifies the \"Descendancy\" view of the Family Tree.",
+    "description": "This icon signifies the \"Descendancy\" view of the Family Tree",
     "keywords": ""
   },
   {
     "name": "tree-fan",
-    "description": "This icon signifies the \"Fan Chart\" view of the Family Tree.",
+    "description": "This icon signifies the \"Fan Chart\" view of the Family Tree",
     "keywords": ""
   },
   {
     "name": "tree-pedigree",
-    "description": "This icon signifies the \"Landscape\" (horizantal icon orientation) and \"Portrait\" (vertical icon orientation) views of the Family Tree.",
+    "description": "This icon signifies the \"Landscape\" (horizantal icon orientation) and \"Portrait\" (vertical icon orientation) views of the Family Tree",
     "keywords": ""
   },
   {
     "name": "tree-view-relationship",
-    "description": "This icon signifies an action to view the user's relationship to another person.",
+    "description": "This icon signifies an action to view the user's relationship to another person",
     "keywords": ""
   }
 ]

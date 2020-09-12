@@ -1,822 +1,1047 @@
 [
   {
-    "name": "activity-baseball",
+    "name": "activity-baseball.png",
+    "description": "",
     "keywords": "discovery"
   },
   {
-    "name": "activity-basketball",
+    "name": "activity-basketball.png",
+    "description": "",
     "keywords": "discovery"
   },
   {
-    "name": "activity-football",
+    "name": "activity-football.png",
+    "description": "",
     "keywords": "discovery"
   },
   {
-    "name": "activity-learn",
+    "name": "activity-learn.png",
+    "description": "",
     "keywords": "discovery"
   },
   {
-    "name": "activity-music",
+    "name": "activity-music.png",
+    "description": "",
     "keywords": "discovery"
   },
   {
-    "name": "activity-science",
+    "name": "activity-science.png",
+    "description": "",
     "keywords": "discovery"
   },
   {
-    "name": "activity-soccer",
+    "name": "activity-soccer.png",
+    "description": "",
     "keywords": "discovery"
   },
   {
-    "name": "activity-tennis",
+    "name": "activity-tennis.png",
+    "description": "",
     "keywords": "discovery"
   },
   {
-    "name": "arrow-caret",
+    "name": "arrow-caret.png",
+    "description": "This icon signifies an expandable item, or to be used for next/previous affordances.",
     "keywords": "expand collapse dropdown"
   },
   {
-    "name": "arrow-change",
+    "name": "arrow-change.png",
+    "description": "This icon signifies an action to refresh or sync information.",
     "keywords": "sync"
   },
   {
-    "name": "arrow-rotate",
+    "name": "arrow-rotate.png",
+    "description": "This icon signifies an action to rotate an image.",
     "keywords": "turn"
   },
   {
-    "name": "arrow-swap",
+    "name": "arrow-swap.png",
+    "description": " ",
     "keywords": "switch"
   },
   {
-    "name": "arrow",
+    "name": "arrow.png",
+    "description": "This icon signifies that the user will be taken somewhere when clicked. It is mostly to be used as a back button.",
     "keywords": "go"
   },
   {
-    "name": "content-add",
+    "name": "content-add.png",
+    "description": "This icon signifies an action to upload media or input new data. Also, Zooming in",
     "keywords": "plus include"
   },
   {
-    "name": "content-attach",
+    "name": "content-attach.png",
+    "description": "This icon signifies an action to attach. It is not to be used to indicate that content is attached (use content-attached).",
     "keywords": "record"
   },
   {
-    "name": "content-attached",
+    "name": "content-attached.png",
+    "description": "This icon signifies that content is attached.",
     "keywords": "record"
   },
   {
-    "name": "content-check",
+    "name": "content-bullet.png",
+    "description": "This icon signifies a neutral validation state. For an unordered list, a standard text bullet should be used.",
+    "keywords": "point list item"
+  },
+  {
+    "name": "content-check.png",
+    "description": "This icon signifies that something has been done successfully.",
     "keywords": "done complete finish"
   },
   {
-    "name": "content-copy",
+    "name": "content-compose.png",
+    "description": "This icon signifies an action to create a new (often longform) written object, such as a Story in Memories.",
+    "keywords": ""
+  },
+  {
+    "name": "content-copy.png",
+    "description": "This icon signifies an action to duplicate an object or copy to clipboard",
     "keywords": "duplicate"
   },
   {
-    "name": "content-delete",
+    "name": "content-delete.png",
+    "description": "This icon signifies an action to delete, not to merely detach (use content-detach), hide (use control-hide), nor remove (use content-remove)",
     "keywords": "remove trash"
   },
   {
-    "name": "content-detach",
+    "name": "content-detach.png",
+    "description": "This icon signifies an action to detach content. It does not indicate that content is no longer attached.",
     "keywords": "record"
   },
   {
-    "name": "content-download",
+    "name": "content-download.png",
+    "description": "",
     "keywords": ""
   },
   {
-    "name": "content-edit",
-    "keywords": "change"
+    "name": "content-edit.png",
+    "description": "This icon signifies an action to start editing something. It does not indicate that something has been edited (use content-history).",
+    "keywords": "change pencil"
   },
   {
-    "name": "content-flag",
+    "name": "content-flag.png",
+    "description": "This icon signifies an action to report something to Support.",
     "keywords": "report"
   },
   {
-    "name": "content-history",
+    "name": "content-history.png",
+    "description": "This icon signifies that a change has taken place.",
     "keywords": "revert"
   },
   {
-    "name": "content-link",
+    "name": "content-link.png",
+    "description": "Adding a URL/hyperlink",
     "keywords": "hyperlink"
   },
   {
-    "name": "content-lock",
+    "name": "content-lock.png",
+    "description": "This icon signifies an object is uneditable",
     "keywords": ""
   },
   {
-    "name": "content-print",
+    "name": "content-print.png",
+    "description": "This icon signifies an action to print.",
     "keywords": ""
   },
   {
-    "name": "content-remove",
+    "name": "content-remove.png",
+    "description": "This icon signifies an action to exclude something. It does not indicate that data will be purged from the system (use content-delete). And it is used for Zoom out",
     "keywords": "minus exclude"
   },
   {
-    "name": "content-tag",
+    "name": "content-tag.png",
+    "description": "This icon signifies an action to add a new tag to a Memory. TOPIC TAG OR PERSON TAG???",
     "keywords": "topic"
   },
   {
-    "name": "content-undo",
+    "name": "content-undo.png",
+    "description": "This icon signifies an action to undo. It does not indicate an action to rotate (use arrow-rotate).",
     "keywords": ""
   },
   {
-    "name": "content-unlink",
+    "name": "content-unlink.png",
+    "description": "Removing a URL/hyperlink",
     "keywords": ""
   },
   {
-    "name": "content-upload",
+    "name": "content-unlock.png",
+    "description": "This icon signifies an action to make an object editable",
     "keywords": ""
   },
   {
-    "name": "control-brightness-less",
+    "name": "content-upload.png",
+    "description": "",
     "keywords": ""
   },
   {
-    "name": "control-brightness-more",
+    "name": "control-bottom-sheet.png",
+    "description": "Toggles a side sheet to a bottom sheet",
     "keywords": ""
   },
   {
-    "name": "control-contrast-less",
+    "name": "control-brightness-less.png",
+    "description": "This icon signifies an action to decrease the brightness of an image. It does not indicate toggling the daybreak theme.",
     "keywords": ""
   },
   {
-    "name": "control-contrast-more",
+    "name": "control-brightness-more.png",
+    "description": "This icon signifies an action to increase the brightness of an image. It does not indicate toggling the daybreak theme.",
     "keywords": ""
   },
   {
-    "name": "control-crop",
+    "name": "control-contrast-less.png",
+    "description": "This icon signifies an action to decrease the contrast of an image. It does not indicate toggling the daybreak theme.",
     "keywords": ""
   },
   {
-    "name": "control-expand",
+    "name": "control-contrast-more.png",
+    "description": "This icon signifies an action to increase the contrast of an image. It does not indicate toggling the daybreak theme.",
     "keywords": ""
   },
   {
-    "name": "control-exposure",
+    "name": "control-crop.png",
+    "description": "",
     "keywords": ""
   },
   {
-    "name": "control-fullscreen-exit",
+    "name": "control-expand.png",
+    "description": "",
     "keywords": ""
   },
   {
-    "name": "control-fullscreen",
+    "name": "control-exposure.png",
+    "description": "This icon signifies an action to adjust the exposure of an image. It does not indicate toggling the daybreak/nightfall theme.",
     "keywords": ""
   },
   {
-    "name": "control-grid",
+    "name": "control-fullscreen-exit.png",
+    "description": "",
     "keywords": ""
   },
   {
-    "name": "control-hide",
+    "name": "control-fullscreen.png",
+    "description": "",
+    "keywords": ""
+  },
+  {
+    "name": "control-grid.png",
+    "description": "This icon signifies a state or action to view a set of images or objects in a grid layout.",
+    "keywords": ""
+  },
+  {
+    "name": "control-hide.png",
+    "description": "This icon signifies an action to hide something that is currently in view.",
     "keywords": "eye"
   },
   {
-    "name": "control-highlight",
+    "name": "control-highlight.png",
+    "description": "This icon signifies an action to add a highlight to an image.",
     "keywords": "mark"
   },
   {
-    "name": "control-invert",
+    "name": "control-invert.png",
+    "description": "This icon signifies an action to invert the colors of an image. It does not indicate toggling the daybreak/nightfall theme.",
     "keywords": ""
   },
   {
-    "name": "control-list",
+    "name": "control-list.png",
+    "description": "This icon signifies a state or action to view a set of images or objects in a listed layout. It does not signify a menu (use menu).",
     "keywords": ""
   },
   {
-    "name": "control-settings-adjust",
+    "name": "control-settings-adjust.png",
+    "description": "This icon signifies a menu of tools to manipulate an image in the Image Viewer.",
     "keywords": ""
   },
   {
-    "name": "control-split",
+    "name": "control-side-sheet.png",
+    "description": "Toggles a bottom sheet to a side sheet",
     "keywords": ""
   },
   {
-    "name": "control-target",
+    "name": "control-split.png",
+    "description": "This icon signifies an action to switch the current view into a two-up, split-screen layout",
     "keywords": ""
   },
   {
-    "name": "control-view",
+    "name": "control-target.png",
+    "description": "This icon signifies re-centering the user's view back to the default position.",
+    "keywords": ""
+  },
+  {
+    "name": "control-view.png",
+    "description": "This icon signifies an action to show something that is currently hidden.",
     "keywords": "eye"
   },
   {
-    "name": "discovery-heritage",
+    "name": "discovery-heritage.png",
+    "description": "This icon signifies the \"Where Am I From\" product.",
     "keywords": ""
   },
   {
-    "name": "discovery-name-meaning",
+    "name": "discovery-name-meaning.png",
+    "description": "This icon signifies the \"Name Meaning\" feature in the \"All About Me\" product.",
     "keywords": ""
   },
   {
-    "name": "discovery-name-popularity",
+    "name": "discovery-name-popularity.png",
+    "description": "This icon signifies the \"Name Popularity\" feature in the \"All About Me\" product.",
     "keywords": ""
   },
   {
-    "name": "discovery-population",
+    "name": "discovery-population.png",
+    "description": "This icon signifies the \"Population Quiz\" feature in the \"All About Me\" product.",
     "keywords": ""
   },
   {
-    "name": "document-basic",
+    "name": "document-basic.png",
+    "description": "This icon signifies a record.",
     "keywords": "regular"
   },
   {
-    "name": "document-blank",
+    "name": "document-blank.png",
+    "description": "",
     "keywords": ""
   },
   {
-    "name": "document-book-open",
+    "name": "document-book-open.png",
+    "description": "",
     "keywords": ""
   },
   {
-    "name": "document-book",
+    "name": "document-book.png",
+    "description": "This icon signifies the Memory type \"Documents\".",
     "keywords": ""
   },
   {
-    "name": "document-box",
+    "name": "document-box.png",
+    "description": "This icon signifies the \"Source Box\" product. ALSO USED FOR ARCHIVE IN MEMORIES GALLERY?",
     "keywords": "source"
   },
   {
-    "name": "document-camera",
+    "name": "document-camera.png",
+    "description": "",
     "keywords": ""
   },
   {
-    "name": "document-certificate",
+    "name": "document-certificate.png",
+    "description": "",
     "keywords": ""
   },
   {
-    "name": "document-check",
+    "name": "document-check.png",
+    "description": "",
     "keywords": "done complete"
   },
   {
-    "name": "document-folder-love",
+    "name": "document-folder-love.png",
+    "description": "This icon signifies the \"Liked Memories\" collection in the Memories Gallery.",
     "keywords": ""
   },
   {
-    "name": "document-folder-open",
+    "name": "document-folder-open.png",
+    "description": "This icon signifies the album currently being viewed in the Memories Gallery",
     "keywords": "active album"
   },
   {
-    "name": "document-folder",
+    "name": "document-folder.png",
+    "description": "This icon signifies an album in Memories.",
     "keywords": "album"
   },
   {
-    "name": "document-image",
+    "name": "document-image.png",
+    "description": "",
     "keywords": "png jpeg jpg tiff"
   },
   {
-    "name": "document-list",
+    "name": "document-list.png",
+    "description": "",
     "keywords": ""
   },
   {
-    "name": "document-pdf",
+    "name": "document-pdf.png",
+    "description": "This icon signifies a PDF file format.",
     "keywords": ""
   },
   {
-    "name": "document-photo",
+    "name": "document-photo.png",
+    "description": "This icon signifies the Memory type \"Photos\".",
     "keywords": ""
   },
   {
-    "name": "document-printed",
+    "name": "document-printed.png",
+    "description": "",
     "keywords": "paper"
   },
   {
-    "name": "document-record-person",
+    "name": "document-record-person.png",
+    "description": "This icon signifies a persona from a record.",
     "keywords": ""
   },
   {
-    "name": "document-record-search",
+    "name": "document-record-search.png",
+    "description": "",
     "keywords": "find"
   },
   {
-    "name": "document-story",
+    "name": "document-story.png",
+    "description": "This icon signifies the Memory type \"Stories\".",
     "keywords": "write"
   },
   {
-    "name": "event-bar-bat-mitzvah",
+    "name": "event-bar-bat-mitzvah.png",
+    "description": "",
     "keywords": "person life event"
   },
   {
-    "name": "event-birth",
+    "name": "event-birth.png",
+    "description": "",
     "keywords": "person life event"
   },
   {
-    "name": "event-burial",
+    "name": "event-burial.png",
+    "description": "",
     "keywords": "person life event"
   },
   {
-    "name": "event-census",
+    "name": "event-census.png",
+    "description": "",
     "keywords": "person life event"
   },
   {
-    "name": "event-christening",
+    "name": "event-christening.png",
+    "description": "",
     "keywords": "person life event"
   },
   {
-    "name": "event-court",
+    "name": "event-court.png",
+    "description": "",
     "keywords": "person life event"
   },
   {
-    "name": "event-cremation",
+    "name": "event-cremation.png",
+    "description": "",
     "keywords": "person life event"
   },
   {
-    "name": "event-death",
+    "name": "event-death.png",
+    "description": "",
     "keywords": "person life event"
   },
   {
-    "name": "event-divorce",
+    "name": "event-divorce.png",
+    "description": "",
     "keywords": "person life event"
   },
   {
-    "name": "event-historical",
+    "name": "event-historical.png",
+    "description": "",
     "keywords": "person life event"
   },
   {
-    "name": "event-immigration",
+    "name": "event-immigration.png",
+    "description": "",
     "keywords": "person life event"
   },
   {
-    "name": "event-marriage",
+    "name": "event-marriage.png",
+    "description": "",
     "keywords": "person life event"
   },
   {
-    "name": "event-military-service",
+    "name": "event-military-service.png",
+    "description": "",
     "keywords": "person life event"
   },
   {
-    "name": "event-naturalization",
+    "name": "event-naturalization.png",
+    "description": "",
     "keywords": "person life event"
   },
   {
-    "name": "event-nobility",
+    "name": "event-nobility.png",
+    "description": "",
     "keywords": "person life event"
   },
   {
-    "name": "event-occupation",
+    "name": "event-occupation.png",
+    "description": "",
     "keywords": "person life event"
   },
   {
-    "name": "help-announcement",
+    "name": "help-announcement.png",
+    "description": "This icon signifies the \"FamilySearch Blog\" product.",
     "keywords": "what's new"
   },
   {
-    "name": "help-ask-question",
+    "name": "help-ask-question.png",
+    "description": "",
     "keywords": ""
   },
   {
-    "name": "help-compass",
+    "name": "help-compass.png",
+    "description": "",
     "keywords": ""
   },
   {
-    "name": "help-preserver",
+    "name": "help-preserver.png",
+    "description": "This icon signifies the \"Help Others\" product.",
     "keywords": ""
   },
   {
-    "name": "help-test-drive",
+    "name": "help-test-drive.png",
+    "description": "This icon signifies the \"Guided Tour\" feature from Indexing. ",
     "keywords": "trial"
   },
   {
-    "name": "help-tip",
+    "name": "help-tip.png",
+    "description": "This icon signifies the \"Getting Started\" product.",
     "keywords": "idea"
   },
   {
-    "name": "help-touch",
+    "name": "help-touch.png",
+    "description": "",
     "keywords": "tap"
   },
   {
-    "name": "logo-facebook",
+    "name": "logo-facebook.png",
+    "description": "This icon signifies an action to share something from FamilySearch to Facebook. It is not to be used as a link to FamilySearch's Facebook page.",
     "keywords": "social media"
   },
   {
-    "name": "logo-familysearch",
+    "name": "logo-familysearch.png",
+    "description": "",
     "keywords": ""
   },
   {
-    "name": "logo-fb-messenger",
+    "name": "logo-fb-messenger.png",
+    "description": "This icon signifies an action to share something from FamilySearch to Facebook Messenger.",
     "keywords": "social media"
   },
   {
-    "name": "logo-github",
+    "name": "logo-github.png",
+    "description": "",
     "keywords": ""
   },
   {
-    "name": "logo-google",
+    "name": "logo-google.png",
+    "description": "This icon signifies an action to share something from FamilySearch to Google+.",
     "keywords": "social media"
   },
   {
-    "name": "logo-pinterest",
+    "name": "logo-pinterest.png",
+    "description": "This icon signifies an action to share something from FamilySearch to Pinterest.",
     "keywords": "social media"
   },
   {
-    "name": "logo-rootstech",
+    "name": "logo-rootstech.png",
+    "description": "",
     "keywords": ""
   },
   {
-    "name": "logo-twitter",
+    "name": "logo-twitter.png",
+    "description": "This icon signifies an action to share something from FamilySearch to Twitter. It is not to be used as a link to FamilySearch's Twitter profile.",
     "keywords": "social media"
   },
   {
-    "name": "logo-whatsapp",
+    "name": "logo-whatsapp.png",
+    "description": "This icon signifies an action to share something from FamilySearch to WhatsApp.",
     "keywords": "social media"
   },
   {
-    "name": "logo-yahoo",
+    "name": "logo-yahoo.png",
+    "description": "",
     "keywords": ""
   },
   {
-    "name": "media-backward",
+    "name": "media-backward.png",
+    "description": "",
     "keywords": "audio player"
   },
   {
-    "name": "media-camera",
+    "name": "media-camera.png",
+    "description": "This icon signifies an action to take a photo with the device's camera. It does not signify \"Photos\" in Memories (use document-photo).",
     "keywords": "picture"
   },
   {
-    "name": "media-film",
+    "name": "media-film.png",
+    "description": "This icon signifies that a record is available on microfilm.",
     "keywords": "microfilm"
   },
   {
-    "name": "media-forward",
+    "name": "media-forward.png",
+    "description": "",
     "keywords": "audio player"
   },
   {
-    "name": "media-headphones",
+    "name": "media-headphones.png",
+    "description": "This icon signifies the Memory type \"Audio\".",
     "keywords": "listen audio"
   },
   {
-    "name": "media-microphone-off",
+    "name": "media-microphone-off.png",
+    "description": "This icon signifies an action to mute the device's microphone.",
     "keywords": "audio record"
   },
   {
-    "name": "media-microphone",
+    "name": "media-microphone.png",
+    "description": "This icon signifies an action to enable the device's microphone or that the device's microphone is currently active/unmuted. It does not signify \"Audio\" in Memories (use media-headphones).",
     "keywords": "audio"
   },
   {
-    "name": "media-next",
+    "name": "media-next.png",
+    "description": "",
     "keywords": "audio player"
   },
   {
-    "name": "media-pause",
+    "name": "media-pause.png",
+    "description": "",
     "keywords": "audio player"
   },
   {
-    "name": "media-play",
+    "name": "media-play.png",
+    "description": "",
     "keywords": "audio player"
   },
   {
-    "name": "media-previous",
+    "name": "media-previous.png",
+    "description": "",
     "keywords": "audio player"
   },
   {
-    "name": "media-stop",
+    "name": "media-stop.png",
+    "description": "",
     "keywords": "audio player"
   },
   {
-    "name": "media-video-camera",
+    "name": "media-video-camera.png",
+    "description": "",
     "keywords": "record"
   },
   {
-    "name": "media-volume-mute",
+    "name": "media-volume-mute.png",
+    "description": "",
     "keywords": "off"
   },
   {
-    "name": "media-volume",
+    "name": "media-volume.png",
+    "description": "This icon signifies an action to adjust the volume or mute the device's speaker. It does not signify \"Audio\" in Memories (use media-headphones).",
     "keywords": "louder"
   },
   {
-    "name": "menu-close-circle-no-export",
-    "keywords": ""
-  },
-  {
-    "name": "menu-close",
+    "name": "menu-close.png",
+    "description": "This is for closing an overlay or menu. It is not for deleting (use content-delete).",
     "keywords": "cancel exit"
   },
   {
-    "name": "menu-filter",
+    "name": "menu-filter.png",
+    "description": "IS THIS THE RIGHT ICON? NAIL DOWN A GOOD DESCRIPTION SO IT IS NOT CONFUSED WITH THE ADJUST/SETTINGS/MENU ICON",
     "keywords": ""
   },
   {
-    "name": "menu-home",
+    "name": "menu-home.png",
+    "description": "This icon signifies the home screen of an app.",
     "keywords": "house"
   },
   {
-    "name": "menu-more",
+    "name": "menu-more.png",
+    "description": "This icon signifies an overflow menu of actions.",
     "keywords": "misc"
   },
   {
-    "name": "menu-new-window",
+    "name": "menu-new-window.png",
+    "description": "This icon signifies an action to follow a link to a new tab.",
     "keywords": "new tab"
   },
   {
-    "name": "menu-search",
+    "name": "menu-search.png",
+    "description": "This icon signifies a way to search a database.",
     "keywords": "find"
   },
   {
-    "name": "menu-settings",
+    "name": "menu-settings.png",
+    "description": "",
     "keywords": "system"
   },
   {
-    "name": "menu",
+    "name": "menu.png",
+    "description": "This icon signifies access to the top-level navigation of the app. It is not to be used elsewhere. This is not a drag-and-drop \"grip\".",
     "keywords": "more collapse hamburger"
   },
   {
-    "name": "notice-do-not",
+    "name": "notice-do-not.png",
+    "description": "",
     "keywords": ""
   },
   {
-    "name": "notice-important",
+    "name": "notice-important.png",
+    "description": "This icon signifies a error validation state.",
     "keywords": "Snake! Snake!!!"
   },
   {
-    "name": "notice-info",
+    "name": "notice-info.png",
+    "description": "",
     "keywords": "learn more"
   },
   {
-    "name": "notice-loading",
+    "name": "notice-loading.png",
+    "description": "",
     "keywords": "wait"
   },
   {
-    "name": "notice-mute",
+    "name": "notice-mute.png",
+    "description": "This icon signifies a state or action to mute notifications.",
     "keywords": "notification off unsubscribe"
   },
   {
-    "name": "notice-protected",
+    "name": "notice-protected.png",
+    "description": "",
     "keywords": "secure safe"
   },
   {
-    "name": "notice-question",
+    "name": "notice-question.png",
+    "description": "This opens the Help Overlay. (MAYBE RENAME TO \"help-\")",
     "keywords": ""
   },
   {
-    "name": "notice-suggestion",
+    "name": "notice-suggestion.png",
+    "description": "This icon signifies the \"Research Suggestions\" feature in the Family Tree.",
     "keywords": "guide"
   },
   {
-    "name": "notice-warning",
+    "name": "notice-warning.png",
+    "description": "This icon signifies a warning validation state.",
     "keywords": "triangle"
   },
   {
-    "name": "notice",
+    "name": "notice.png",
+    "description": "This icon signifies the \"Notifications\" product.",
     "keywords": "notification receive subscribe"
   },
   {
-    "name": "person-duplicates",
+    "name": "person-duplicates.png",
+    "description": "This icon signifies the \"Possible Duplicates\" feature in the Family Tree.",
     "keywords": ""
   },
   {
-    "name": "person-family",
+    "name": "person-family.png",
+    "description": "",
     "keywords": ""
   },
   {
-    "name": "person-female-no-export",
+    "name": "person-female-no-export.png",
+    "description": "",
     "keywords": ""
   },
   {
-    "name": "person-group",
+    "name": "person-group.png",
+    "description": "",
     "keywords": ""
   },
   {
-    "name": "person-male-no-export",
+    "name": "person-male-no-export.png",
+    "description": "",
     "keywords": ""
   },
   {
-    "name": "person-search",
+    "name": "person-search.png",
+    "description": " DO WE NEED THIS?",
     "keywords": "find"
   },
   {
-    "name": "person-sex-unknown-no-export",
+    "name": "person-sex-unknown-no-export.png",
+    "description": "",
     "keywords": ""
   },
   {
-    "name": "person",
+    "name": "person.png",
+    "description": "This icon generally signifies \"user\" or \"a person in the Family Tree\". When mentioning a specific user or a specific person in the Family Tree, use Avatars.",
     "keywords": ""
   },
   {
-    "name": "place-amusement",
+    "name": "place-amusement.png",
+    "description": "",
     "keywords": "map location"
   },
   {
-    "name": "place-cemetary",
+    "name": "place-cemetary.png",
+    "description": "",
     "keywords": "map location"
   },
   {
-    "name": "place-church",
+    "name": "place-church.png",
+    "description": "",
     "keywords": "map location"
   },
   {
-    "name": "place-city",
+    "name": "place-city.png",
+    "description": "",
     "keywords": "map location"
   },
   {
-    "name": "place-county",
+    "name": "place-county.png",
+    "description": "",
     "keywords": "map location"
   },
   {
-    "name": "place-court",
+    "name": "place-court.png",
+    "description": "",
     "keywords": "map location"
   },
   {
-    "name": "place-farm",
+    "name": "place-farm.png",
+    "description": "",
     "keywords": "map location"
   },
   {
-    "name": "place-home",
+    "name": "place-home.png",
+    "description": "",
     "keywords": "map location"
   },
   {
-    "name": "place-hospital",
+    "name": "place-hospital.png",
+    "description": "",
     "keywords": "map location"
   },
   {
-    "name": "place-island",
+    "name": "place-island.png",
+    "description": "",
     "keywords": "map location"
   },
   {
-    "name": "place-lower-division",
+    "name": "place-lower-division.png",
+    "description": "",
     "keywords": "map location"
   },
   {
-    "name": "place-military",
+    "name": "place-military.png",
+    "description": "",
     "keywords": "map location"
   },
   {
-    "name": "place-other",
+    "name": "place-other.png",
+    "description": "",
     "keywords": "map location"
   },
   {
-    "name": "place-post-office",
+    "name": "place-post-office.png",
+    "description": "",
     "keywords": "map location"
   },
   {
-    "name": "place-prominent-building",
+    "name": "place-prominent-building.png",
+    "description": "",
     "keywords": "map location"
   },
   {
-    "name": "place-region",
+    "name": "place-region.png",
+    "description": "",
     "keywords": "map location"
   },
   {
-    "name": "place-store",
+    "name": "place-store.png",
+    "description": "",
     "keywords": "map location"
   },
   {
-    "name": "place-temple",
+    "name": "place-temple.png",
+    "description": "",
     "keywords": "map location"
   },
   {
-    "name": "place-tribe",
+    "name": "place-tribe.png",
+    "description": "",
     "keywords": "map location"
   },
   {
-    "name": "place-village",
+    "name": "place-village.png",
+    "description": "",
     "keywords": "map location"
   },
   {
-    "name": "place-world",
+    "name": "place-world.png",
+    "description": "",
     "keywords": "map location"
   },
   {
-    "name": "social-call",
+    "name": "social-call.png",
+    "description": "",
     "keywords": "phone"
   },
   {
-    "name": "social-chat",
+    "name": "social-chat.png",
+    "description": "",
     "keywords": ""
   },
   {
-    "name": "social-comment",
+    "name": "social-comment.png",
+    "description": "",
     "keywords": ""
   },
   {
-    "name": "social-contributions",
+    "name": "social-contributions.png",
+    "description": "",
     "keywords": ""
   },
   {
-    "name": "social-email-open",
-    "keywords": ""
+    "name": "social-email-open.png",
+    "description": "",
+    "keywords": "letter envelope"
   },
   {
-    "name": "social-email",
-    "keywords": ""
+    "name": "social-email.png",
+    "description": "",
+    "keywords": "letter envelope"
   },
   {
-    "name": "social-face-content",
+    "name": "social-face-content.png",
+    "description": "This icon signifies a happy reaction. It does not signify a user or a person in the Family Tree (use person).",
     "keywords": "patron satisfaction feedback"
   },
   {
-    "name": "social-face-happy",
+    "name": "social-face-happy.png",
+    "description": "",
     "keywords": "patron satisfaction feedback"
   },
   {
-    "name": "social-face-love",
+    "name": "social-face-love.png",
+    "description": "",
     "keywords": "patron satisfaction feedback"
   },
   {
-    "name": "social-face-mad",
+    "name": "social-face-mad.png",
+    "description": "",
     "keywords": "patron satisfaction feedback"
   },
   {
-    "name": "social-face-neutral",
+    "name": "social-face-neutral.png",
+    "description": "",
     "keywords": "patron satisfaction feedback"
   },
   {
-    "name": "social-face-sad",
+    "name": "social-face-sad.png",
+    "description": "",
     "keywords": "patron satisfaction feedback"
   },
   {
-    "name": "social-like",
+    "name": "social-like.png",
+    "description": "",
+    "keywords": "thumb hand"
+  },
+  {
+    "name": "social-love.png",
+    "description": "",
+    "keywords": "heart"
+  },
+  {
+    "name": "social-message.png",
+    "description": "",
     "keywords": ""
   },
   {
-    "name": "social-love",
+    "name": "social-send.png",
+    "description": "This icon signifies an action to send a message.",
+    "keywords": "paper plane"
+  },
+  {
+    "name": "social-share.png",
+    "description": "This icon signifies a menu of sharing options.",
     "keywords": ""
   },
   {
-    "name": "social-message",
-    "keywords": ""
+    "name": "social-star.png",
+    "description": "",
+    "keywords": "follow watch rate"
   },
   {
-    "name": "social-send",
-    "keywords": ""
-  },
-  {
-    "name": "social-share",
-    "keywords": ""
-  },
-  {
-    "name": "social-star",
-    "keywords": "watch rate"
-  },
-  {
-    "name": "thing-calendar",
+    "name": "thing-calendar.png",
+    "description": "This icon signifies a standardized date.",
     "keywords": "date"
   },
   {
-    "name": "thing-device",
+    "name": "thing-device.png",
+    "description": "",
     "keywords": "tablet phone"
   },
   {
-    "name": "thing-flag",
+    "name": "thing-flag.png",
+    "description": "President of a country",
     "keywords": "discovery"
   },
   {
-    "name": "thing-food",
+    "name": "thing-food.png",
+    "description": "",
     "keywords": "discovery"
   },
   {
-    "name": "thing-fuel",
+    "name": "thing-fuel.png",
+    "description": "",
     "keywords": "discovery"
   },
   {
-    "name": "thing-map-pin",
+    "name": "thing-map-pin.png",
+    "description": "This icon signifies a standardized place.",
     "keywords": "location place"
   },
   {
-    "name": "thing-map",
+    "name": "thing-map.png",
+    "description": "",
     "keywords": "location place"
   },
   {
-    "name": "thing-money",
+    "name": "thing-money.png",
+    "description": "",
     "keywords": "currency discovery"
   },
   {
-    "name": "thing-movie",
+    "name": "thing-movie.png",
+    "description": "This icon signifies the \"Best Film\" feature in the \"All About Me\" product. It does not signify a video.",
     "keywords": "discovery"
   },
   {
-    "name": "thing-recipe",
+    "name": "thing-recipe.png",
+    "description": "",
     "keywords": "discovery"
   },
   {
-    "name": "thing-stamp",
+    "name": "thing-stamp.png",
+    "description": "",
     "keywords": "discovery"
   },
   {
-    "name": "thing-ticket",
+    "name": "thing-ticket.png",
+    "description": "",
     "keywords": "discovery"
   },
   {
-    "name": "thing-timer",
+    "name": "thing-timer.png",
+    "description": "",
     "keywords": "countdown"
   },
   {
-    "name": "thing-trophy",
+    "name": "thing-trophy.png",
+    "description": "",
     "keywords": "win discovery"
   },
   {
-    "name": "tree-descendancy",
+    "name": "tree-descendancy.png",
+    "description": "This icon signifies the \"Descendancy\" view of the Family Tree.",
     "keywords": ""
   },
   {
-    "name": "tree-fan",
+    "name": "tree-fan.png",
+    "description": "This icon signifies the \"Fan Chart\" view of the Family Tree.",
     "keywords": ""
   },
   {
-    "name": "tree-pedigree",
+    "name": "tree-pedigree.png",
+    "description": "This icon signifies the \"Landscape\" (horizantal icon orientation) and \"Portrait\" (vertical icon orientation) views of the Family Tree.",
     "keywords": ""
   },
   {
-    "name": "tree-view-relationship",
+    "name": "tree-view-relationship.png",
+    "description": "This icon signifies an action to view the user's relationship to another person.",
     "keywords": ""
   }
 ]

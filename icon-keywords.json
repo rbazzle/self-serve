@@ -56,7 +56,7 @@
   },
   {
     "name": "arrow-swap.png",
-    "description": " ",
+    "description": "",
     "keywords": "switch"
   },
   {
@@ -151,7 +151,7 @@
   },
   {
     "name": "content-tag.png",
-    "description": "This icon signifies an action to add a new tag to a Memory. TOPIC TAG OR PERSON TAG???",
+    "description": "This icon signifies an action to add a new tag to a Memory.",
     "keywords": "topic"
   },
   {
@@ -316,7 +316,7 @@
   },
   {
     "name": "document-box.png",
-    "description": "This icon signifies the \"Source Box\" product. ALSO USED FOR ARCHIVE IN MEMORIES GALLERY?",
+    "description": "This icon signifies the \"Source Box\" product.",
     "keywords": "source"
   },
   {
@@ -636,7 +636,7 @@
   },
   {
     "name": "menu-filter.png",
-    "description": "IS THIS THE RIGHT ICON? NAIL DOWN A GOOD DESCRIPTION SO IT IS NOT CONFUSED WITH THE ADJUST/SETTINGS/MENU ICON",
+    "description": "",
     "keywords": ""
   },
   {
@@ -701,7 +701,7 @@
   },
   {
     "name": "notice-question.png",
-    "description": "This opens the Help Overlay. (MAYBE RENAME TO \"help-\")",
+    "description": "This opens the Help Overlay.",
     "keywords": ""
   },
   {
@@ -746,7 +746,7 @@
   },
   {
     "name": "person-search.png",
-    "description": " DO WE NEED THIS?",
+    "description": "",
     "keywords": "find"
   },
   {

@@ -677,7 +677,7 @@
   {
     "name": "notice-important",
     "description": "This icon signifies a error validation state.",
-    "keywords": "Snake! Snake!!!"
+    "keywords": ""
   },
   {
     "name": "notice-info",
